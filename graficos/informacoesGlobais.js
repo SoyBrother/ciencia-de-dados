@@ -1,0 +1,21 @@
+const url = 'https://raw.githubusercontent.com/guilhermeonrails/api/main/dados-globais.json'
+
+aync function visualizarInformacoesGlobais(){
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+visualizarInformacoesGlobais();
